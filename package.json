@@ -1,4 +1,7 @@
 {
+  "publishConfig": {
+    "registry": "http://repository.selsia.fr/repository/npm-internal/"
+  },
   "name": "stylelint-order",
   "version": "0.8.1",
   "description": "A collection of order related linting rules for stylelint.",
